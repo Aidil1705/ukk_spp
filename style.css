@@ -1,0 +1,31 @@
+*,body{
+  cursor: url('img/too386.cur'), auto !important;
+}
+table{
+    padding-top: 75px;
+}
+table tr td{
+    padding : 5px;
+}
+table tr td input{
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 20px;
+}
+.tombol {
+    background-color: white;
+    color: black;
+    border: 2px solid #374e7c;
+    border-radius: 100px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    right: 0;
+  }
+.tombol:hover{
+    background-color: #374e7c ;
+    color: white;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
